@@ -1,5 +1,5 @@
 _repo: Love-or-Fame-and-Other-Poems_2491
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -22,5 +22,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'American poetry'
 - !lcc 'PS'
+- GITenberg
 title: Love or Fame; and Other Poems
 url: http://www.gutenberg.org/ebooks/2491
